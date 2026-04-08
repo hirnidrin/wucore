@@ -1,4 +1,6 @@
 cosign.key
 cosign.private
 /Containerfile
+/Dockerfile
 *.code-workspace
+/.bluebuild-scripts_*
