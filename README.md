@@ -8,7 +8,7 @@ Read the [BlueBuild docs](https://blue-build.org/learn/getting-started/) for det
 ## Images
 
 name | base image | recipe | notes
--|-|-
+-|-|-|-
 wucore | [Fedora CoreOS stable](https://quay.io/repository/fedora/fedora-coreos?tab=tags) | [recipe-wucore.yml](./recipes/recipe-wucore.yml) | homelab container platform, ready for k3s install
 
 ## Installation
